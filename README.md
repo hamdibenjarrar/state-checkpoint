@@ -4,7 +4,7 @@
 
 A dynamic profile carousel application demonstrating React class components, state management, and lifecycle methods. Features multiple profiles with smooth transitions and real-time mounting timer.
 
-(![image](https://github.com/user-attachments/assets/57b358b1-707b-469f-bb1d-78012bd40f8d)
+![image](https://github.com/user-attachments/assets/57b358b1-707b-469f-bb1d-78012bd40f8d)
 
 
 ## Features
